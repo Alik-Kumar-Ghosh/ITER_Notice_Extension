@@ -1,7 +1,7 @@
 {
     "name": "ITER_Notice",
     "version": "1.0.0",
-    "manifest_version": 1,
+    "manifest_version": 2,
     "browser_action": {
         "default_popup": "popup.html",
         "default_icon": "logo.png"

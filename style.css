@@ -1,0 +1,12 @@
+body {
+  width: auto;
+  height: auto;
+  background-color: rgb(210, 184, 255);
+  display: block;
+  justify-content: center;
+  overflow-y: hidden;
+}
+iframe {
+  width: 90vh;
+  height: 228vh;
+}
